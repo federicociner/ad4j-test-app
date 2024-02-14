@@ -2,7 +2,7 @@
 
 A React app used to test Azure DevOps integrations in Jira.
 
-I have unupdated the README.
+A newer version of the README.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
